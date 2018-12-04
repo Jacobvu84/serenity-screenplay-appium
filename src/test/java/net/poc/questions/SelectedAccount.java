@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.converters.StringConverter;
 
 /**
- * @author datdc@gearinc.com
+ * @author  vuthelinh@gmail.com
  *
  */
 

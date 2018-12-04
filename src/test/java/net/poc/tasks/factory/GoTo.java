@@ -5,7 +5,7 @@ import net.poc.tasks.DeleteAccount;
 import net.serenitybdd.screenplay.Task;
 
 /**
- * @author datdc@gearinc.com
+ * @author vuthelinh@gmail.com
  *
  */
 
